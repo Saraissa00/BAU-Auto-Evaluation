@@ -2,10 +2,6 @@
 
 A Tampermonkey userscript that automatically fills and submits course evaluation forms on the BAU student portal — saves you from clicking through every question manually.
 
-## Demo
-
-<video src="https://github.com/Saraissa00/BAU-Auto-Evaluation/releases/download/v1.0/demo.mp4" controls width="100%"></video>
-
 ## One-Click Install
 
 > Requires the [Tampermonkey](https://www.tampermonkey.net/) browser extension (Chrome, Edge, or Firefox).
