@@ -16,9 +16,9 @@ A Tampermonkey userscript that automatically fills and submits course evaluation
 
 1. Open any evaluation page on `app2.bau.edu.jo`
 2. A popup appears asking: **"What is your rating for this instructor?"**
-   - **Always Agree** — selects the first option for every question
-   - **Sometimes Agree** — selects the middle option
-   - **Never Agree** — selects the last option
+   - **Always Agree** 
+   - **Sometimes Agree** 
+   - **Never Agree** 
 3. If no choice is made within 10 seconds, defaults to **Always Agree**
 4. The script then automatically:
    - Selects the correct radio button on each question
