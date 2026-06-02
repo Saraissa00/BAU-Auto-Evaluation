@@ -4,7 +4,7 @@ A Tampermonkey userscript that automatically fills and submits course evaluation
 
 ## Demo
 
-<video src="demo.mp4" controls width="100%"></video>
+<video src="https://github.com/Saraissa00/BAU-Auto-Evaluation/releases/download/v1.0/demo.mp4" controls width="100%"></video>
 
 ## One-Click Install
 
