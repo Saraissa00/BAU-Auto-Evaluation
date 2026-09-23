@@ -1,0 +1,1 @@
+https://www.tampermonkey.net/script_installation.php#url=https://github.com/Saraissa00/BAU-Auto-Evaluation/raw/refs/heads/main/code/bau_eval.user.js

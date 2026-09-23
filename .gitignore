@@ -1,0 +1,11 @@
+# docs
+*.html
+*.docx
+
+# misc
+final.txt
+
+# video files
+*.mp4
+*.webm
+*.wav
